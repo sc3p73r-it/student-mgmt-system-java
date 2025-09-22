@@ -1,6 +1,9 @@
 # 📂 Student Record Management System
 This system provides a simple command-line interface for administrators to manage student records, including adding, updating, and viewing student information.
 
+### High-Level Diagram
+![alt text](image.png)
+
 ### 📜 Java Source Code
 Here is the complete Java code for the system. It is structured into two classes: Student to represent the data for a single student, and StudentManagementSystem which contains the main logic and user interface.
 
